@@ -41,4 +41,5 @@ export default function CourseRoutes(app) {
         }
         res.send(course);
     });
+
 }
